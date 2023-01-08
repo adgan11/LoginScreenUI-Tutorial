@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7F02042B29634303003701DD /* ThirdView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F02042A29634303003701DD /* ThirdView.swift */; };
+		7F0604F729609A77000B66C1 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F0604F629609A76000B66C1 /* SecondView.swift */; };
+		7F0604F929609A96000B66C1 /* CircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F0604F829609A96000B66C1 /* CircleView.swift */; };
 		7F4DAB732960364500074392 /* LoginScreenTutApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F4DAB722960364500074392 /* LoginScreenTutApp.swift */; };
 		7F4DAB752960364500074392 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F4DAB742960364500074392 /* ContentView.swift */; };
 		7F4DAB772960364700074392 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7F4DAB762960364700074392 /* Assets.xcassets */; };
@@ -14,6 +17,12 @@
 		7F4DAB842960364700074392 /* LoginScreenTutTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F4DAB832960364700074392 /* LoginScreenTutTests.swift */; };
 		7F4DAB8E2960364700074392 /* LoginScreenTutUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F4DAB8D2960364700074392 /* LoginScreenTutUITests.swift */; };
 		7F4DAB902960364700074392 /* LoginScreenTutUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F4DAB8F2960364700074392 /* LoginScreenTutUITestsLaunchTests.swift */; };
+		7F7BD0CA29648B75003A0423 /* TextFieldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F7BD0C929648B75003A0423 /* TextFieldView.swift */; };
+		7FB369C729603FB500E94DB9 /* Inder-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7FB369C629603FB400E94DB9 /* Inder-Regular.ttf */; };
+		7FB369C929603FBD00E94DB9 /* Inter-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7FB369C829603FBD00E94DB9 /* Inter-Bold.ttf */; };
+		7FB369CB29603FC500E94DB9 /* Inter-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7FB369CA29603FC500E94DB9 /* Inter-ExtraBold.ttf */; };
+		7FB369CD29603FCE00E94DB9 /* Inter-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7FB369CC29603FCE00E94DB9 /* Inter-Medium.ttf */; };
+		7FB369CF29603FDA00E94DB9 /* Inter-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7FB369CE29603FDA00E94DB9 /* Inter-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +43,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7F02042A29634303003701DD /* ThirdView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdView.swift; sourceTree = "<group>"; };
+		7F0604F629609A76000B66C1 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
+		7F0604F829609A96000B66C1 /* CircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleView.swift; sourceTree = "<group>"; };
+		7F1F648529603A5D00097D08 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		7F4DAB6F2960364500074392 /* LoginScreenTut.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LoginScreenTut.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7F4DAB722960364500074392 /* LoginScreenTutApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginScreenTutApp.swift; sourceTree = "<group>"; };
 		7F4DAB742960364500074392 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -44,6 +57,12 @@
 		7F4DAB892960364700074392 /* LoginScreenTutUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LoginScreenTutUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7F4DAB8D2960364700074392 /* LoginScreenTutUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginScreenTutUITests.swift; sourceTree = "<group>"; };
 		7F4DAB8F2960364700074392 /* LoginScreenTutUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginScreenTutUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		7F7BD0C929648B75003A0423 /* TextFieldView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldView.swift; sourceTree = "<group>"; };
+		7FB369C629603FB400E94DB9 /* Inder-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inder-Regular.ttf"; sourceTree = "<group>"; };
+		7FB369C829603FBD00E94DB9 /* Inter-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Bold.ttf"; sourceTree = "<group>"; };
+		7FB369CA29603FC500E94DB9 /* Inter-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-ExtraBold.ttf"; sourceTree = "<group>"; };
+		7FB369CC29603FCE00E94DB9 /* Inter-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Medium.ttf"; sourceTree = "<group>"; };
+		7FB369CE29603FDA00E94DB9 /* Inter-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Regular.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,10 +113,17 @@
 		7F4DAB712960364500074392 /* LoginScreenTut */ = {
 			isa = PBXGroup;
 			children = (
+				7FB369CA29603FC500E94DB9 /* Inter-ExtraBold.ttf */,
+				7FB369C529603F8F00E94DB9 /* Font */,
+				7F1F648529603A5D00097D08 /* Info.plist */,
 				7F4DAB722960364500074392 /* LoginScreenTutApp.swift */,
 				7F4DAB742960364500074392 /* ContentView.swift */,
+				7F0604F629609A76000B66C1 /* SecondView.swift */,
 				7F4DAB762960364700074392 /* Assets.xcassets */,
 				7F4DAB782960364700074392 /* Preview Content */,
+				7F0604F829609A96000B66C1 /* CircleView.swift */,
+				7F02042A29634303003701DD /* ThirdView.swift */,
+				7F7BD0C929648B75003A0423 /* TextFieldView.swift */,
 			);
 			path = LoginScreenTut;
 			sourceTree = "<group>";
@@ -125,6 +151,17 @@
 				7F4DAB8F2960364700074392 /* LoginScreenTutUITestsLaunchTests.swift */,
 			);
 			path = LoginScreenTutUITests;
+			sourceTree = "<group>";
+		};
+		7FB369C529603F8F00E94DB9 /* Font */ = {
+			isa = PBXGroup;
+			children = (
+				7FB369CE29603FDA00E94DB9 /* Inter-Regular.ttf */,
+				7FB369CC29603FCE00E94DB9 /* Inter-Medium.ttf */,
+				7FB369C829603FBD00E94DB9 /* Inter-Bold.ttf */,
+				7FB369C629603FB400E94DB9 /* Inder-Regular.ttf */,
+			);
+			path = Font;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -231,8 +268,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7FB369CB29603FC500E94DB9 /* Inter-ExtraBold.ttf in Resources */,
+				7FB369C729603FB500E94DB9 /* Inder-Regular.ttf in Resources */,
+				7FB369CD29603FCE00E94DB9 /* Inter-Medium.ttf in Resources */,
 				7F4DAB7A2960364700074392 /* Preview Assets.xcassets in Resources */,
+				7FB369C929603FBD00E94DB9 /* Inter-Bold.ttf in Resources */,
 				7F4DAB772960364700074392 /* Assets.xcassets in Resources */,
+				7FB369CF29603FDA00E94DB9 /* Inter-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -257,6 +299,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7F0604F929609A96000B66C1 /* CircleView.swift in Sources */,
+				7F02042B29634303003701DD /* ThirdView.swift in Sources */,
+				7F7BD0CA29648B75003A0423 /* TextFieldView.swift in Sources */,
+				7F0604F729609A77000B66C1 /* SecondView.swift in Sources */,
 				7F4DAB752960364500074392 /* ContentView.swift in Sources */,
 				7F4DAB732960364500074392 /* LoginScreenTutApp.swift in Sources */,
 			);
@@ -419,6 +465,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"LoginScreenTut/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = LoginScreenTut/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -447,6 +494,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"LoginScreenTut/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = LoginScreenTut/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
